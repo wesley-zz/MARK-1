@@ -1,0 +1,7 @@
+/home/wesley/code/MARK1/build/CMakeFiles/rebuild_cache.dir
+/home/wesley/code/MARK1/build/CMakeFiles/edit_cache.dir
+/home/wesley/code/MARK1/build/src/CMakeFiles/rebuild_cache.dir
+/home/wesley/code/MARK1/build/src/CMakeFiles/main.dir
+/home/wesley/code/MARK1/build/src/CMakeFiles/edit_cache.dir
+/home/wesley/code/MARK1/build/src/module/logger/CMakeFiles/rebuild_cache.dir
+/home/wesley/code/MARK1/build/src/module/logger/CMakeFiles/edit_cache.dir
