@@ -30,6 +30,7 @@ int main()
     pthread_mutex_init(&mutex,NULL);
 
     MARK_DEBUG(DEBUG,"DEBUG here:%d",15);
+    MARK_DEBUG(DEBUG,"DEBUG here:%d",15);
 
     pthread_create(&t1, NULL, pthread_process, NULL);
     pthread_create(&t2, NULL, pthread_process, NULL);
